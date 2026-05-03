@@ -63,22 +63,22 @@ To scan from port 1 to port 100
   ## Screenshots
 
 ### Basic Scan
-![Basic Scan](screenshots_basic-scan.png)
+![Basic Scan](screenshot_basic-scan.png)
 
 ### Service Detection
-![Service Detection](screenshots_service-Version.png)
+![Service Detection](screenshot_service-Version.png)
 
 ### Aggressive Scan
 ![Aggressive Scan](Screenshot_Aggressive-scan.png)
 
 ### All port scan
-![All Port](screenshots_All-port.png)
+![All Port](screenshot_All-port.png)
 
 ### Range Scan
-![Range Scan](Screenshots_Range-Scan.png)
+![Range Scan](Screenshot_Range-Scan.png)
 
 ### Specific Port Scan
-![Specific Port](Screenshots_Specific-Port.png)
+![Specific Port](Screenshot_Specific-Port.png)
 
 ## Mitigation
 - Close unused ports
