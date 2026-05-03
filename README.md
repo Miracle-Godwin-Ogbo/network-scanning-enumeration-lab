@@ -60,6 +60,26 @@ To scan from port 1 to port 100
 - Detected outdated services which may be vulnerable
 - Observed potential entry points for further exploitation
 
+  ## Screenshots
+
+### Basic Scan
+![Basic Scan](screenshots_basic-scan.png)
+
+### Service Detection
+![Service Detection](screenshots_service-Version.png)
+
+### Aggressive Scan
+![Aggressive Scan](screenshots_aggressive-scan.png)
+
+### All port scan
+![All Port](screenshots_All-port.png)
+
+### Range Scan
+![Range Scan](Screenshots_Range-Scan.png)
+
+### Specific Port Scan
+![Specific Port](Screenshots_Specific-Port.png)
+
 ## Mitigation
 - Close unused ports
 - Update outdated services
