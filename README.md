@@ -78,7 +78,7 @@ To scan from port 1 to port 100
 ![Range Scan](Screenshot_Range-scan.png)
 
 ### Specific Port Scan
-![Specific Port](Screenshot_specific-Port.png)
+![Specific Port](Screenshot_specific-port.png)
 
 ## Mitigation
 - Close unused ports
