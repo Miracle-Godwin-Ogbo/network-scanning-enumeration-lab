@@ -125,3 +125,7 @@ To improve system security posture, the following actions are recommended:
 ### CONCLUSION
 
 The target system exposes multiple services that increase its attack surface. While no direct exploitation was performed, the enumeration results highlight several potential entry points that could be leveraged in a real attack scenario. Proper hardening and service minimization are strongly recommended.
+
+### Disclaimer
+
+All activities, scans, exploitations, and simulations demonstrated in this repository were conducted in a controlled lab environment for educational and ethical purposes only. The target systems used were intentionally vulnerable systems owned for testing. Unauthorized testing against real-world systems is illegal and unethical.
